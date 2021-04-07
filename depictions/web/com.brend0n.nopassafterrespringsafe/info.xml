@@ -1,0 +1,54 @@
+<package>
+	<id>com.brend0n.nopassafterrespringsafe</id>
+	<name>NoPassAfterRespring (Safe)</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Disables passcode after a respring.</shortDescription>
+	<descriptionlist>
+		<description>Disables passcode after a respring if the device is already unlocked or have no password.</description>
+		<description>
+		This is an improved version of original NoPassAfterRespring by @_AppleExpert. This version does NOT modify system file. It's safe to use.
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://mobile.twitter.com/brendonjkding</url>
+			<iconclass>fab fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/brendonjkding/NoPassAfterRespring</url>
+			<iconclass>fab fa-github</iconclass>
+		</link>
+		<link>
+			<name>Donate</name>
+			<url>https://paypal.me/brend0n</url>
+			<iconclass>fab fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>打赏</name>
+			<url>https://qr.alipay.com/fkx199226yyspdubbiibddc</url>
+			<iconclass>fab fa-alipay</iconclass>
+		</link>
+		<link>
+			<name>Cydia Repo</name>
+			<url>cydia://url/https://cydia.saurik.com/api/share#?source=http://brendonjkding.github.io</url>
+		</link>
+		<link>
+			<name>BiliBili</name>
+			<url>https://space.bilibili.com/22182611</url>
+		</link>
+
+	</links>
+</package>

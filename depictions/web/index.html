@@ -69,7 +69,7 @@
                 ,"render" : function(element,source){
                 console.log($(source).size());
                     if ($(source).size()==0) {
-                        $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+                        $(element).append( $("<li class='list-group-item'>No screenshots.</li>") ); 
                         return;
                     }
                     $.each(source, function(index,data) {
