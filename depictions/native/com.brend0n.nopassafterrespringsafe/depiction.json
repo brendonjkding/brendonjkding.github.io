@@ -7,7 +7,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Disables passcode after a respring if the device is already unlocked or have no password. \r\nThis is an improved version of original NoPassAfterRespring by [@\\_AppleExpert](https://twitter.com/\\_AppleExpert). This version does NOT modify system file. It's safe to use."
+                    "markdown": "Disables passcode after a respring if the device is already unlocked or have no password. \r\nThis is an improved version of original NoPassAfterRespring by [@\\_AppleExpert](https://twitter.com/_AppleExpert). This version does NOT modify system file. It's safe to use."
                 },
                 {
                     "class": "DepictionSeparatorView"
