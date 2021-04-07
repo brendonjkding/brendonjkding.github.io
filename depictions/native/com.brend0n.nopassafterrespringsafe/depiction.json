@@ -13,22 +13,13 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": "http://brendonjkding.github.io/depictions/web/com.brend0n.properccbackgroundipad/screenshots/1.PNG"
-                        },
-                    ]
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "title": "Version",
                     "text": "0.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Compatibility",
+                    "text": "iOS >= 7.0",
                     "class": "DepictionTableTextView"
                 },
                 {
