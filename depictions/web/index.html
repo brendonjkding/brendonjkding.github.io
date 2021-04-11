@@ -48,6 +48,7 @@
 					var res = ios_version_check(
 						$(source).find("miniOS").text(),
 						$(source).find("maxiOS").text(),
+            $(source).find("mayWorkiOS").text(),
 						$(source).find("otherVersions").text(),
 						function(message,isBad) {
 							$(element).html(message)
@@ -78,7 +79,7 @@
                             .text($(data).find('description').text())
                         )
                         th.append($("<img>")
-                            .attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+                            .attr("src",bundleid+'/'+$(data).find('image').text())
                         )
                         $(element).append(th);
                     });

@@ -49,9 +49,10 @@ Twitter - @TimonOlsthoorn
 var VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
 var VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
 var VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
-var VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
+var VERSION_CHECK_UNSUPPORTED = "Not compatible with iOS %s &#x1f61e;";
+var VERSION_CHECK_UNTESTED = "Not yet tested on iOS %s. However, this Tweak doesn't modify system files. Feel relieved to test. &#x1f601;";
 
-function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
+function ios_version_check(minIOS,maxIOS,mayWorkIOS,otherIOS,callBack) {
 	"use strict";
 
 
@@ -101,24 +102,31 @@ function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 		osString = osVersion[0] + "." + osVersion[1] + (osVersion[2] && osVersion[2] != 0 ? "." + osVersion[2] : ""),
 		minString = minIOS,
 		maxString = maxIOS,
+		mayWorkString = mayWorkIOS,
 
 		minVersion = parseVersionString(minString),
 		maxVersion = maxString ? parseVersionString(maxString) : null,
+		mayWorkVersion = mayWorkString ? parseVersionString(mayWorkString) : null,
 
 		message = VERSION_CHECK_SUPPORTED,
 		isBad = false;
 
 	if (compareVersions(minVersion, osVersion) == 1) {
-		message = VERSION_CHECK_NEEDS_UPGRADE.replace("%s", minString);
-		isBad = true;
+		if (mayWorkVersion && compareVersions(mayWorkVersion, osVersion) == -1){
+			message = VERSION_CHECK_UNTESTED.replace("%s", osString);
+		}
+		else{
+			message = VERSION_CHECK_NEEDS_UPGRADE.replace("%s", minString);
+			isBad = true;
+		}
+		
 	} else if (maxVersion && compareVersions(maxVersion, osVersion) == -1) {
 		if ("unsupported" == otherIOS) {
-			message = VERSION_CHECK_UNSUPPORTED.replace("%s", minString).replace("%s", maxString);
+			message = VERSION_CHECK_UNSUPPORTED.replace("%s", osString);
+			isBad = true;
 		} else {
-			message = VERSION_CHECK_UNCONFIRMED.replace("%s", osString);
+			message = VERSION_CHECK_UNTESTED.replace("%s", osString);
 		}
-
-		isBad = true;
 	}
 	callBack(message,isBad);
 
