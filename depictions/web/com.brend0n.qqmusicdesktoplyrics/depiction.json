@@ -7,7 +7,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": ""
+                    "markdown": "支持企鹅、网易、酷狗家族、咪咕、酷我(含各自ipad版) \r\nMay support Spotify/Apple Music. NO guarantee!"
                 },
                 {
                     "class": "DepictionSeparatorView"
