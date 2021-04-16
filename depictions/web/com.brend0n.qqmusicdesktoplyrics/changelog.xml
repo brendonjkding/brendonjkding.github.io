@@ -1,0 +1,150 @@
+<changelog>
+	<changes>
+        <version>0.3.1</version>
+        <change>支持并排显示</change>
+        <change>支持moo音乐</change>
+        <change>Add English Translation</change>
+        <change>修复Sileo安装问题</change>
+        <change>修复网易云个别歌曲闪退问题</change>
+        <change>修复iOS10设置页面闪退问题</change>
+        <change>其它bug修复</change>
+    </changes>
+    <changes>
+        <version>0.3.0b2</version>
+        <change>支持Apple Music(测试)</change>
+        <change>优化更改设置时立即无缝切换</change>
+        <change>bug修复</change>
+    </changes>
+    <changes>
+        <version>0.3.0b1</version>
+        <change>(由于调色板年久失修加上两个调色板一山不容二虎的蜜汁操作)本版本开始内置调色板</change>
+        <change>新增配置保存、快速切换、锁屏界面单独配置功能</change>
+        <change>新增强制横屏选项</change>
+        <change>bug修复</change>
+    </changes>
+    <changes>
+        <version>0.2.8-3</version>
+        <change>新增将歌词传送至mac/appletv选项</change>
+        <change>增加歌词进度微调选项</change>
+        <change>面板拖动增加锁定横纵轴选项</change>
+        <change>优化网易云和酷我的进度显示</change>
+        <change>优化网易云歌词获取方式</change>
+        <change>其它bug修复</change>
+    </changes>
+    <changes>
+        <version>0.2.7-1</version>
+        <change>息屏界面显示通知横幅</change>
+        <change>快捷设置窗口内容可自定义增减</change>
+        <change>提供歌词上下间距选项</change>
+        <change>修复行间距过小时的显示bug</change>
+        <change>酷狗获取歌词方式优化</change>
+        <change>性能优化</change>
+        <change>其它bug修复</change>
+    </changes>
+    <changes>
+        <version>0.2.7</version>
+        <change>新增兼容模式</change>
+        <change>息屏界面增加可选时钟</change>
+        <change>新增垂直显示模式</change>
+        <change>提供详细的手势设置</change>
+        <change>悬浮窗本体提供最低至iOS7,armv7的支持</change>
+        <change>总开关提供activator支持</change>
+        <change>酷我获取歌词优化</change>
+        <change>字体边框优化(建议重新调节宽度)</change>
+        <change>自动隐藏细分为两种方式</change>
+        <change>锁屏界面显示选项</change>
+        <change>居左/居右选项</change>
+        <change>性能优化</change>
+        <change>息屏歌词显示方式从使用电源键变更为关闭屏幕</change>
+    </changes>
+    <changes>
+        <version>0.2.6-4</version>
+        <change>修复无歌词自动隐藏设置不生效的问题</change>
+        <change>兼容模式提供更多选项</change>
+        <change>设置里显示版本号</change>
+        <change>息屏时钟颜色自动变化</change>
+        <change>性能优化</change>
+        <change>息屏歌词显示方式从使用电源键变更为关闭屏幕</change>
+        <change>其它没被发现的bug修复</change>
+    </changes>
+    <changes>
+        <version>0.2.6-1</version>
+        <change>新增兼容模式</change>
+        <change>息屏界面增加可选时钟</change>
+        <change>新增垂直显示模式</change>
+        <change>提供详细的手势设置</change>
+        <change>悬浮窗本体提供最低至iOS7,armv7的支持</change>
+        <change>总开关提供activator支持</change>
+        <change>酷我获取歌词优化</change>
+        <change>字体边框优化(建议重新调节宽度)</change>
+        <change>自动隐藏细分为两种方式</change>
+        <change>锁屏界面显示选项</change>
+        <change>居左/居右选项</change>
+    </changes>
+    <changes>
+        <version>0.2.4</version>
+        <change>weather effect</change>
+        <change>bug fix</change>
+    </changes>
+    <changes>
+        <version>0.2.3</version>
+        <change>always-on(beta)</change>
+        <change>bug fix</change>
+    </changes>
+    <changes>
+        <version>0.2.2</version>
+        <change>spotify support(beta)</change>
+        <change>text path style progress</change> 
+        <change>fade next lyric option</change>
+    </changes>
+    <changes>
+        <version>0.2.1</version>
+        <change>graphics improvement</change>
+        <change>font name/size option</change>
+        <change>more color option</change>
+        <change>corner radius option</change>
+    </changes>
+    <changes>
+        <version>0.2.0</version>
+        <change>kugou/migu/kw/xiami support(beta)</change>
+        <change>bug fix</change>
+    </changes>
+    <changes>
+        <version>0.1.0</version>
+        <change>performance improvement</change>
+        <change>position adjustable</change>
+        <change>netease support(beta)</change>
+        <change>more comfortable background color</change>
+    </changes>
+    <changes>
+        <version>0.0.8</version>
+        <change>translate/yinyi/next lyric</change>
+        <change>karaoke/color option</change>
+    </changes>
+    <changes>
+        <version>0.0.7</version>
+        <change>custom bg color support</change>
+    </changes>
+    <changes>
+        <version>0.0.6</version>
+        <change>bug fix</change>
+    </changes>
+    <changes>
+        <version>0.0.5</version>
+        <change>rotate support</change>
+        <change>autohide support</change>
+    </changes>
+    <changes>
+        <version>0.0.4</version>
+        <change>fix absolute music crash bug</change>
+    </changes>
+    <changes>
+        <version>0.0.3</version>
+        <change>karaoke support</change>
+    </changes>
+    <changes>
+        <version>0.0.1</version>
+        <change>Initial Release</change>
+    </changes>
+
+</changelog>
