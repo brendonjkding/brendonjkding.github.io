@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.1</version>
+    <version>0.3.2</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -24,13 +24,7 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>支持并排显示</change>
-        <change>支持moo音乐</change>
-        <change>Add English Translation</change>
-        <change>修复Sileo安装问题</change>
-        <change>修复网易云个别歌曲闪退问题</change>
-        <change>修复iOS10设置页面闪退问题</change>
-        <change>其它bug修复</change>
+        <change>新增文字使用系统颜色选项</change>
     </changelog>
     <links>
         <link>
