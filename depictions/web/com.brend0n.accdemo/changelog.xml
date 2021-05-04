@@ -1,0 +1,81 @@
+<changelog>
+    <changes>
+        <version>0.2.2</version>
+        <change>Minor game compatibility improvement</change>
+    </changes>
+	<changes>
+        <version>0.2.1</version>
+        <change>Prevent potential crash</change>
+    </changes>
+    <changes>
+        <version>0.2.0r6</version>
+        <change>Fix a bug which cause invalid speed value can't be correct automatically</change>
+    </changes>
+    <changes>
+        <version>0.2.0r5</version>
+        <change>Fix a bug which cause speed in mode 3 not controllable</change>
+        <change>Fix a bug which crash the game when changing speed with showing option on</change>
+    </changes>
+    <changes>
+        <version>0.2.0r4</version>
+        <change>Remove background in speed pop-up</change>
+    </changes>
+    <changes>
+        <version>0.2.0r3</version>
+        <change>Add 32-bit device compatibility (only mode 2 or 3)</change>
+        <change>Fix low iOS version compatibility</change>
+    </changes>
+    <changes>
+        <version>0.2.0r2</version>
+        <change>Fix a bug which cause a new speed being added each time the device respring</change>
+    </changes>
+    <changes>
+        <version>0.2.0</version>
+        <change>Miscellaneous improvements and bug fixs</change>
+    </changes>
+    <changes>
+        <version>0.1.0</version>
+        <change>Add Developer information</change>
+    </changes>
+    <changes>
+        <version>0.0.10</version>
+        <change>Improve Unity 2018 compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.9</version>
+        <change>Perfomance improvement</change>
+    </changes>
+    <changes>
+        <version>0.0.8</version>
+        <change>Fix pop-up not showing up in some games</change>
+    </changes>
+    <changes>
+        <version>0.0.7</version>
+        <change>Fix preference bug</change>
+    </changes>
+    <changes>
+        <version>0.0.6</version>
+        <change>Add arm64e slice</change>
+    </changes>
+    <changes>
+        <version>0.0.5</version>
+        <change>Add CC Toggle</change>
+    </changes>
+    <changes>
+        <version>0.0.4</version>
+        <change>Support Unity 2018</change>
+    </changes>
+    <changes>
+        <version>0.0.3</version>
+        <change>Fix button not showing up in some games</change>
+    </changes>
+    <changes>
+        <version>0.0.2</version>
+        <change>Add ability to choose enabled game</change>
+    </changes>
+    <changes>
+        <version>0.0.1</version>
+        <change>Initial Release</change>
+    </changes>
+
+</changelog>

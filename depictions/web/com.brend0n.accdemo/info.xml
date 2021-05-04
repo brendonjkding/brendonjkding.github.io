@@ -1,0 +1,60 @@
+<package>
+    <id>com.brend0n.accdemo</id>
+    <name>AccDemo</name>
+    <version>0.2.2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0.0</miniOS>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>mobilesubstrate, preferenceloader, applist</package>
+    </dependencies>
+    <shortDescription>Control the speed of your game</shortDescription>
+    <descriptionlist>
+<description>Control the speed of your game</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <image>2.jpg</image>
+        </screenshot>              
+    </screenshots>
+    <changelog>
+        <change>Minor game compatibility improvement</change>
+    </changelog>
+    <links>
+        <link>
+            <name>Twitter</name>
+            <url>https://mobile.twitter.com/brendonjkding</url>
+            <iconclass>fab fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>Source Code</name>
+            <url>https://github.com/brendonjkding/accDemo</url>
+            <iconclass>fab fa-github</iconclass>
+        </link>
+        <link>
+            <name>Donate</name>
+            <url>https://paypal.me/brend0n</url>
+            <iconclass>fab fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>打赏</name>
+            <url>https://qr.alipay.com/fkx199226yyspdubbiibddc</url>
+            <iconclass>fab fa-alipay</iconclass>
+        </link>
+        <link>
+            <name>Cydia Repo</name>
+            <url>cydia://url/https://cydia.saurik.com/api/share#?source=http://brendonjkding.github.io</url>
+        </link>
+        <link>
+            <name>BiliBili</name>
+            <url>https://space.bilibili.com/22182611</url>
+        </link>
+
+    </links>
+</package>
+
