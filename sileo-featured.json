@@ -4,7 +4,6 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        //<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         "url": "http://brendonjkding.github.io/depictions/web/com.brend0n.accdemo/feature.jpeg",
         "title": "AccDemo",
         "package": "com.brend0n.accdemo",
