@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.accdemo</id>
     <name>AccDemo</name>
-    <version>0.2.2</version>
+    <version>0.2.3</version>
     <compatibility>
         <firmware>
             <miniOS>7.0.0</miniOS>
@@ -23,7 +23,7 @@
         </screenshot>              
     </screenshots>
     <changelog>
-        <change>Minor game compatibility improvement</change>
+        <change>Added a experimental fix to inject into Apps not covered by com.apple.UIKit. Workaround on my Twitter is no longer needed.</change>
     </changelog>
     <links>
         <link>
