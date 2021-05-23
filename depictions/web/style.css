@@ -33,3 +33,6 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-left: 5px;
     margin-right: 10px;
 }
+.screenshot {
+    max-height: 667px;
+}

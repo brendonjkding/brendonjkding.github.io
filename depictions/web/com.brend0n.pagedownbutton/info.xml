@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.pagedownbutton</id>
     <name>PageDownButton</name>
-    <version>0.1.4b1</version>
+    <version>0.1.4b2</version>
     <compatibility>
         <firmware>
             <miniOS>7.0.0</miniOS>
@@ -20,7 +20,7 @@
         </screenshot>            
     </screenshots>
     <changelog>
-        <change>Initial Release</change>
+        <change>Fix first haptic feedback when swiping the button</change>
     </changelog>
     <links>
         <link>

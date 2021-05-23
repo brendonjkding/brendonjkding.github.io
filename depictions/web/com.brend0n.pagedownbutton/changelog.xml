@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.1.4b2</version>
+		<change>Fix first haptic feedback when swiping the button</change>
+	</changes>
+	<changes>
 		<version>0.1.4b1</version>
 		<change>Initial Release</change>
 	</changes>
