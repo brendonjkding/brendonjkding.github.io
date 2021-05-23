@@ -86,7 +86,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "\t\n\u2022 Added a experimental fix to inject into Apps not covered by com.apple.UIKit. Workaround on my Twitter is no longer needed.",
+                    "markdown": "\t\n\u2022 Added a experimental fix to inject into Apps not covered by com.apple.UIKit.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },

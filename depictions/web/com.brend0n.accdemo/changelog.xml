@@ -1,7 +1,7 @@
 <changelog>
     <changes>
         <version>0.2.3</version>
-        <change>Added a experimental fix to inject into Apps not covered by com.apple.UIKit. Workaround on my Twitter is no longer needed.</change>
+        <change>Added a experimental fix to inject into Apps not covered by com.apple.UIKit.</change>
     </changes>
     <changes>
         <version>0.2.2</version>
