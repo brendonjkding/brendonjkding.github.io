@@ -1,14 +1,14 @@
 <package>
     <id>com.brend0n.accdemo</id>
     <name>AccDemo</name>
-    <version>0.2.3</version>
+    <version>0.2.4</version>
     <compatibility>
         <firmware>
             <miniOS>7.0.0</miniOS>
         </firmware>
     </compatibility>
     <dependencies>
-        <package>mobilesubstrate, preferenceloader, applist</package>
+        <package>mobilesubstrate, preferenceloader, com.opa334.altlist</package>
     </dependencies>
     <shortDescription>Control the speed of your game</shortDescription>
     <descriptionlist>
@@ -23,7 +23,8 @@
         </screenshot>              
     </screenshots>
     <changelog>
-        <change>Added a experimental fix to inject into Apps not covered by com.apple.UIKit.</change>
+        <change>Add a better fix to inject into Apps not covered by com.apple.UIKit.</change>
+        <change>Switch to AltList</change>
     </changelog>
     <links>
         <link>

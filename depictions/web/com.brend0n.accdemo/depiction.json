@@ -80,6 +80,22 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "0.2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add a better fix to inject into Apps not covered by com.apple.UIKit.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Switch to AltList",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "0.2.3",
                     "useBoldText": true,
                     "useBottomMargin": true,

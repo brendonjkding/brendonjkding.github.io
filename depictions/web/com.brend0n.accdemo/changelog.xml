@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.2.4</version>
+        <change>Add a better fix to inject into Apps not covered by com.apple.UIKit.</change>
+        <change>Switch to AltList</change>
+    </changes>
+    <changes>
         <version>0.2.3</version>
         <change>Added a experimental fix to inject into Apps not covered by com.apple.UIKit.</change>
     </changes>
