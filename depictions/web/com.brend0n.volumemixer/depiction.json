@@ -1,0 +1,169 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#ffae8e",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Volume control for individual app"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/1.png"
+                        },
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.0.5",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Web Depiction",
+                    "action": "http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Twitter",
+                    "action": "https://mobile.twitter.com/brendonjkding",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Source Code",
+                    "action": "https://github.com/brendonjkding/VolumeMixer",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://paypal.me/brend0n",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "打赏",
+                    "action": "https://qr.alipay.com/fkx199226yyspdubbiibddc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "BiliBili",
+                    "action": "https://space.bilibili.com/22182611",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "0.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Switch from Applist to Altlist",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Switch from substrate to Dobby",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add Option \"Hide Inactive Apps\"",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Use Cephei to manage Settings",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add volume down/up Activator listeners",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add more descriptions in preference",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add simple rotation transition",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add panel y-axis option",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add select/deselect-all button in applist",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Switch to built-in MRYIPC",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Remove unnecessary NSLog",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.0.2",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Initial Release",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
+
+

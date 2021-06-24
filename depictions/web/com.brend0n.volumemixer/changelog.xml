@@ -1,0 +1,26 @@
+<changelog>
+	<changes>
+        <version>0.0.5</version>
+        <change>Switch from Applist to Altlist</change>
+        <change>Switch from substrate to Dobby</change>
+    </changes>
+    <changes>
+        <version>0.0.4</version>
+        <change>Add Option "Hide Inactive Apps"</change>
+        <change>Use Cephei to manage Settings</change>
+        <change>Add volume down/up Activator listeners</change>
+    </changes>
+    <changes>
+        <version>0.0.3</version>
+        <change>Add more descriptions in preference</change>
+        <change>Add simple rotation transition</change>
+        <change>Add panel y-axis option</change>
+        <change>Add select/deselect-all button in applist</change>
+        <change>Switch to built-in MRYIPC</change>
+        <change>Remove unnecessary NSLog</change>
+    </changes>
+    <changes>
+        <version>0.0.2</version>
+        <change>Initial Release</change>
+    </changes>
+</changelog>
