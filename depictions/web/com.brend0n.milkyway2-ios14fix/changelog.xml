@@ -1,0 +1,18 @@
+<changelog>
+    <changes>
+        <version>0.0.2.1</version>
+        <change>Fix missing title when launched from 3DTouch</change>
+    </changes>
+    <changes>
+        <version>0.0.2</version>
+        <change>Support iOS 15(beta)</change>
+        <change>Support launching from 3D Touch Menu</change>
+        <change>Automatically dismiss switcher like MilkyWay(1)</change>
+        <change>Fix keyboard issue (Move keyboard to SpringBoard)</change>
+    </changes>
+    <changes>
+        <version>0.0.1</version>
+        <change>Initial Release</change>
+    </changes>
+
+</changelog>

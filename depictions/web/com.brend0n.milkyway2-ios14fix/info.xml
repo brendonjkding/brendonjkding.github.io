@@ -1,0 +1,52 @@
+<package>
+    <id>com.brend0n.milkyway2-ios14fix</id>
+    <name>MilkyWay2-iOS14Fix</name>
+    <version>0.0.2.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>14.0.0</miniOS>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+    <shortDescription>Make MilkyWay2 great again!</shortDescription>
+    <descriptionlist>
+<description>Make MilkyWay2 great again!</description>
+    </descriptionlist>
+    <changelog>
+        <change>Fix missing title when launched from 3DTouch</change>
+    </changelog>
+    <links>
+        <link>
+            <name>Twitter</name>
+            <url>https://mobile.twitter.com/brendonjkding</url>
+            <iconclass>fab fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>Source Code</name>
+            <url>https://github.com/brendonjkding/MilkyWay2iOS14Fix</url>
+            <iconclass>fab fa-github</iconclass>
+        </link>
+        <link>
+            <name>Donate</name>
+            <url>https://paypal.me/brend0n</url>
+            <iconclass>fab fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>打赏</name>
+            <url>https://qr.alipay.com/fkx199226yyspdubbiibddc</url>
+            <iconclass>fab fa-alipay</iconclass>
+        </link>
+        <link>
+            <name>Cydia Repo</name>
+            <url>cydia://url/https://cydia.saurik.com/api/share#?source=http://brendonjkding.github.io</url>
+        </link>
+        <link>
+            <name>BiliBili</name>
+            <url>https://space.bilibili.com/22182611</url>
+        </link>
+
+    </links>
+</package>
+
