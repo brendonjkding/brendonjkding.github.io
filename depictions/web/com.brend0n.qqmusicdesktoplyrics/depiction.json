@@ -7,7 +7,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "支持企鹅、网易、酷狗家族、咪咕、酷我(含各自ipad版) \r\nMay support Spotify/Apple Music. NO guarantee!"
+                    "markdown": "支持企鹅、网易、酷狗家族、咪咕、酷我(含各自ipad版) \r\nMay support Spotify/Apple Music. NO WARRANTY!"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.2",
+                    "text": "0.3.3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 支持波点音乐",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.2",
                     "useBoldText": true,

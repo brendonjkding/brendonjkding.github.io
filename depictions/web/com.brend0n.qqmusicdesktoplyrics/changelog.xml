@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.3</version>
+        <change>支持波点音乐</change>
+    </changes>
+    <changes>
         <version>0.3.2</version>
         <change>新增文字使用系统颜色选项</change>
     </changes>
