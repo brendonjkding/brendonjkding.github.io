@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.3",
+                    "text": "0.3.4",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 支持全民K歌(听歌模式)",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 优化控制中心开关的性能",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.3",
                     "useBoldText": true,

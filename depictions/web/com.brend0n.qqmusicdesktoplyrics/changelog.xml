@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.3.4</version>
+        <change>支持全民K歌(听歌模式)</change>
+        <change>优化控制中心开关的性能</change>
+    </changes>
+    <changes>
         <version>0.3.3</version>
         <change>支持波点音乐</change>
     </changes>

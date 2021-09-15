@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.3</version>
+    <version>0.3.4</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -24,7 +24,8 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>支持波点音乐</change>
+        <change>支持全民K歌(听歌模式)</change>
+        <change>优化控制中心开关的性能</change>
     </changelog>
     <links>
         <link>
