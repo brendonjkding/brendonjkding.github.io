@@ -1,0 +1,38 @@
+<qa>
+    <qa>
+        <question>设置打不开，设置里没有</question>
+        <answer>确保preferenceloader依赖版本大于等于2.2.5</answer>
+        <answer>越狱工具确保load tweaks 选项打开</answer>
+    </qa>
+    <qa>
+        <question>只显示Author: Brend0n，歌词不显示，没效果</question>
+        <answer>(1)不要屏蔽音乐软件，有些屏蔽越狱会禁止注入</answer>
+<answer>(2)确保依赖rocketbootstrap 版本大于等于1.0.10 作者源rpetri.ch/repo</answer>
+<answer>(3)破解版音乐app不保证可用，旧版本app不保证可用</answer>
+<answer>(4)部分app可能需要保持在自带的歌词界面再进入后台，否则切换歌曲歌词可能不刷新，如Apple Music</answer>
+    </qa>
+    <qa>
+        <question>怎么调透明度</question>
+        <answer>看视频https://www.bilibili.com/video/BV15k4y1C7Q1 看36秒</answer>
+    </qa>
+    <qa>
+        <question>歌词卡在上一首不动</question>
+        <answer>部分播放器部分歌曲信息不全，确保当前播放的音乐有歌词，并且在原app里能自己动</answer>
+<answer>部分app可能需要保持在自带的歌词界面再进入后台，否则切换歌曲歌词可能不刷新，如Apple Music</answer>
+    </qa>
+    <qa>
+        <question>进度不准</question>
+        <answer>字符级进度需要原app支持(仅限企鹅、酷狗、咪咕、虾米部分歌曲)。网易、酷我、Spotify、Apple Music无字符级进度信息，显示的是速度不变的平均进度</answer>
+    </qa>
+    <qa>
+        <question>天气自动无效</question>
+        <answer>当前只支持雨雪，非雨雪天气没有效果</answer>
+    </qa>
+    <qa>
+        <question>iOS版本支持情况</question>
+        <answer>iOS&lt;=6：不支持</answer>
+<answer>iOS7-11：部分功能在过低的版本不可用</answer>
+<answer>iOS12-13：支持</answer>
+<answer>iOS14：支持。注意一定要确保依赖rocketbootstrap 版本大于等于1.0.10 作者源rpetri.ch/repo</answer>
+    </qa>
+</qa>

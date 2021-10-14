@@ -64,6 +64,26 @@
 				,"paragraphElement"	: "<li class='list-group-item'>"
 				,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
 			}
+		,"#qaLink" :
+            {"type":"custom"
+                ,"source" :"package>qa"
+                ,"render":function(element, source){
+                    $("#qaLink").remove();
+                    if ($(source).size() == 0) {
+                        return
+                    }
+
+                    // create qa link
+                    $("#descriptionList").append(
+                        $("<li class='list-group-item' id='_qaLink'></li>")
+                    );
+                    $("#_qaLink").append(
+                        $("<a class=''>")
+                            .attr("href","qa.html?p="+bundleid)
+                            .text("Q&A")
+                    );
+                }
+            }
         ,"#screenshotsList"  : 
             {"type":"custom"  
                 ,"source" :"package>screenshots>screenshot"
@@ -185,6 +205,7 @@
 	<div class="container">
 		<h5>DESCRIPTION</h5>
 		<ul id="descriptionList" class="list-group">
+			<li id="qaLink" />
 		</ul>
 	</div>
 
