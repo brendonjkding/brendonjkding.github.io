@@ -1,0 +1,72 @@
+<changelog>
+    <changes>
+        <version>0.1.3~b1</version>
+        <change>Fixed possible crash in some games</change>
+        <change>Safely inject into non-UIKit-linked games</change>
+    </changes>
+    <changes>
+        <version>0.1.2~b1</version>
+        <change>Improved Compatibility</change>
+    </changes>
+    <changes>
+        <version>0.1.1b3</version>
+        <change>No longer inject into unnecessary processes introduced in 0.1.1b1</change>
+    </changes>
+    <changes>
+        <version>0.1.1b2</version>
+        <change>Fixed sudo crash</change>
+    </changes>
+    <changes>
+        <version>0.1.1b1</version>
+        <change>Fixed crash in some games</change>
+    </changes>
+    <changes>
+        <version>0.1.0</version>
+        <change>Supported libhooker(Chimera, Odyssey)</change>
+    </changes>
+    <changes>
+        <version>0.0.9r3</version>
+        <change>Fixed low iOS version compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.9r2</version>
+        <change>This is actually 0.0.9</change>
+    </changes>
+    <changes>
+        <version>0.0.9</version>
+        <change>Miscellaneous improvements</change>
+    </changes>
+    <changes>
+        <version>0.0.8</version>
+        <change>Improved Compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.7</version>
+        <change>Added FPS value option</change>
+    </changes>
+    <changes>
+        <version>0.0.6</version>
+        <change>Improved Compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.5</version>
+        <change>Supported other games made by Unity</change>
+    </changes>
+    <changes>
+        <version>0.0.4</version>
+        <change>Fixed Preferences Icon</change>
+    </changes>
+    <changes>
+        <version>0.0.3</version>
+        <change>Added Preferences</change>
+    </changes>
+    <changes>
+        <version>0.0.2</version>
+        <change>Improved Compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.1</version>
+        <change>Initial Release</change>
+    </changes>
+
+</changelog>
