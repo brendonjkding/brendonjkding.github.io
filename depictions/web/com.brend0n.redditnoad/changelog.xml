@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.0.3</version>
+        <change>Fix Feed AD blocking in Reddit 2022.43.0+</change>
+    </changes>
+    <changes>
         <version>0.0.2</version>
         <change>Add 'No "Interested in r/XX?"'</change>
     </changes>
