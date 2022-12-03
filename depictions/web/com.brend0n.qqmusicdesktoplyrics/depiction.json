@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.4",
+                    "text": "0.3.5",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 修复网易云音乐歌词显示",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 修复歌词高度可能不正确的bug(也许引入了新bug)",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.4",
                     "useBoldText": true,

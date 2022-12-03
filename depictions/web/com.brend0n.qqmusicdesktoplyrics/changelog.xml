@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.3.5</version>
+        <change>修复网易云音乐歌词显示</change>
+        <change>修复歌词高度可能不正确的bug(也许引入了新bug)</change>
+    </changes>
+    <changes>
         <version>0.3.4</version>
         <change>支持全民K歌(听歌模式)</change>
         <change>优化控制中心开关的性能</change>

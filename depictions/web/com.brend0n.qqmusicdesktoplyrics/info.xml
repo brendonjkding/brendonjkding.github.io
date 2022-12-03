@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.4</version>
+    <version>0.3.5</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -25,8 +25,8 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>支持全民K歌(听歌模式)</change>
-        <change>优化控制中心开关的性能</change>
+        <change>修复网易云音乐歌词显示</change>
+        <change>修复歌词高度可能不正确的bug(也许引入了新bug)</change>
     </changelog>
     <links>
         <link>
