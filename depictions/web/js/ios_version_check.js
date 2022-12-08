@@ -50,7 +50,7 @@ var VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
 var VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
 var VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
 var VERSION_CHECK_UNSUPPORTED = "Not compatible with iOS %s &#x1f61e;";
-var VERSION_CHECK_UNTESTED = "Not yet tested on iOS %s. However, this Tweak doesn't modify system files. Feel relieved to test. &#x1f601;";
+var VERSION_CHECK_UNTESTED = "Not yet tested on iOS %s. However, this Tweak doesn't modify system files. Feel free to test. &#x1f601;";
 
 function ios_version_check(minIOS,maxIOS,mayWorkIOS,otherIOS,callBack) {
 	"use strict";

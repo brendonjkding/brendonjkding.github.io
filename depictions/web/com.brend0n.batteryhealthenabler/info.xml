@@ -5,6 +5,7 @@
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
+            <maxiOS>14.9</maxiOS>
             <mayWorkiOS>11.0</mayWorkiOS>
         </firmware>
     </compatibility>
