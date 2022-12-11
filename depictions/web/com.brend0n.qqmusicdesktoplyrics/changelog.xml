@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.6</version>
+        <change>初步支持iOS 15</change>
+    </changes>
+    <changes>
         <version>0.3.5</version>
         <change>修复网易云音乐歌词显示</change>
         <change>修复歌词高度可能不正确的bug(也许引入了新bug)</change>
