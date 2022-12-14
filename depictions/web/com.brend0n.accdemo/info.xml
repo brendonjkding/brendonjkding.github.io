@@ -1,11 +1,11 @@
 <package>
     <id>com.brend0n.accdemo</id>
     <name>AccDemo</name>
-    <version>0.2.4</version>
+    <version>0.2.5</version>
     <compatibility>
         <firmware>
             <miniOS>7.0.0</miniOS>
-            <maxiOS>14.9</maxiOS>
+            <maxiOS>15.9</maxiOS>
         </firmware>
     </compatibility>
     <dependencies>
@@ -24,8 +24,7 @@
         </screenshot>              
     </screenshots>
     <changelog>
-        <change>Add a better fix to inject into Apps not covered by com.apple.UIKit.</change>
-        <change>Switch to AltList</change>
+        <change>Support rootless jailbreak</change>
     </changelog>
     <links>
         <link>
