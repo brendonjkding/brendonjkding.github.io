@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.6</version>
+    <version>0.3.7</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -26,7 +26,7 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>初步支持iOS 15</change>
+        <change>iOS 15环境将使用内置的MRYIPC替代rocketbootstrap</change>
     </changelog>
     <links>
         <link>

@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.6",
+                    "text": "0.3.7",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.7",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 iOS 15环境将使用内置的MRYIPC替代rocketbootstrap",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.6",
                     "useBoldText": true,
@@ -810,6 +821,11 @@
                 },
                 {
                     "markdown": "\t\n\u2022 iOS14：支持。注意一定要确保依赖rocketbootstrap 版本大于等于1.0.10 作者源rpetri.ch/repo",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 iOS15：初步支持",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.7</version>
+        <change>iOS 15环境将使用内置的MRYIPC替代rocketbootstrap</change>
+    </changes>
+    <changes>
         <version>0.3.6</version>
         <change>初步支持iOS 15</change>
     </changes>
