@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.0.4</version>
+        <change>"Interested in r/XX?" on subreddit page will be blocked as well if enabled</change>
+        <change>Feed AD in News will be blocked as well if enabled</change>
+    </changes>
+    <changes>
         <version>0.0.3</version>
         <change>Fix Feed AD blocking in Reddit 2022.43.0+</change>
     </changes>

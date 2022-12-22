@@ -20,6 +20,11 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "markdown": "\t\n\u2022 No \"Interested in r/XX?\" Prompt",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "markdown": "\t\n\u2022 Lightweight In-App Preferences",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
@@ -29,7 +34,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.3",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -76,6 +81,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 \"Interested in r/XX?\" on subreddit page will be blocked as well if enabled",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Feed AD in News will be blocked as well if enabled",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.3",
                     "useBoldText": true,
