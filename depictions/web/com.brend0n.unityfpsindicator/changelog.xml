@@ -1,0 +1,39 @@
+<changelog>
+    <changes>
+        <version>0.0.4</version>
+        <change>Support rootless jailbreak</change>
+        <change>Switch to AltList</change>
+    </changes>
+    <changes>
+        <version>0.0.3r6</version>
+        <change>Fix not working in some games</change>
+    </changes>
+    <changes>
+        <version>0.0.3r5</version>
+        <change>Fix lower iOS version compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.3r4</version>
+        <change>Fix lower iOS version compatibility</change>
+    </changes>
+    <changes>
+        <version>0.0.3r3</version>
+        <change>Fix label position in landscape mode on devices with notch</change>
+    </changes>
+    <changes>
+        <version>0.0.3r2</version>
+        <change>Fix label position on devices with notch</change>
+    </changes>
+    <changes>
+        <version>0.0.3b1</version>
+        <change>Improve Metal support</change>
+    </changes>
+    <changes>
+        <version>0.0.2</version>
+        <change>Support OpenGL and Metal</change>
+    </changes>
+    <changes>
+        <version>0.0.1</version>
+        <change>Initial Release</change>
+    </changes>
+</changelog>
