@@ -14,7 +14,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.2.1",
+                    "text": "0.0.3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -61,6 +61,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Really support iOS 15",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.2.1",
                     "useBoldText": true,

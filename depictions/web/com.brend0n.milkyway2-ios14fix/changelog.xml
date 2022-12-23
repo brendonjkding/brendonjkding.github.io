@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.0.3</version>
+        <change>Really support iOS 15</change>
+    </changes>
+    <changes>
         <version>0.0.2.1</version>
         <change>Fix missing title when launched from 3DTouch</change>
     </changes>
