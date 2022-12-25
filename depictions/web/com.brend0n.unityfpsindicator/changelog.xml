@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.0.4.1</version>
+        <change>Remove applist dependency in Preference</change>
+    </changes>
+    <changes>
         <version>0.0.4</version>
         <change>Support rootless jailbreak</change>
         <change>Switch to AltList</change>

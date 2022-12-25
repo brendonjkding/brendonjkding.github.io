@@ -80,6 +80,17 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "0.0.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Remove applist dependency in Preference",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "0.0.4",
                     "useBoldText": true,
                     "useBottomMargin": true,
