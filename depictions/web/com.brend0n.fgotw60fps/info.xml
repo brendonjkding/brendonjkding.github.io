@@ -1,11 +1,11 @@
 <package>
     <id>com.brend0n.fgotw60fps</id>
     <name>Unity60FPS</name>
-    <version>0.1.3~b1</version>
+    <version>0.1.4~b1</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
-            <maxiOS>14.9</maxiOS>
+            <maxiOS>15.9</maxiOS>
         </firmware>
     </compatibility>
     <dependencies>
@@ -21,8 +21,8 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>Fixed possible crash in some games</change>
-        <change>Safely inject into non-UIKit-linked games</change>
+        <change>Add support for iOS 15(palera1n)</change>
+        <change>Add experimental support for iOS 15(Xina)</change>
     </changelog>
     <links>
         <link>
