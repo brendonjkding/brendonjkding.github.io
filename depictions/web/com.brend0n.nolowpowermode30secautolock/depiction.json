@@ -1,0 +1,96 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#ffae8e",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Natively adjust Auto-Lock interval in Low Power Mode."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/1.jpeg"
+                        },
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Web Depiction",
+                    "action": "http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Twitter",
+                    "action": "https://mobile.twitter.com/brendonjkding",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Source Code",
+                    "action": "https://github.com/brendonjkding/NoLowPowerMode30SecAutoLock",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://paypal.me/brend0n",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "打赏",
+                    "action": "https://qr.alipay.com/fkx199226yyspdubbiibddc",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "BiliBili",
+                    "action": "https://space.bilibili.com/22182611",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "0.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Initial Release",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
+
+
