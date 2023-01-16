@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.7",
+                    "text": "0.3.8~b1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.8~b1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 适配网易云逐字高亮",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.7",
                     "useBoldText": true,

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.8~b1</version>
+        <change>适配网易云逐字高亮</change>
+    </changes>
+    <changes>
         <version>0.3.7</version>
         <change>iOS 15环境将使用内置的MRYIPC替代rocketbootstrap</change>
     </changes>
