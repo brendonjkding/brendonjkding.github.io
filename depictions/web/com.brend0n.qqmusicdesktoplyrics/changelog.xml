@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.8~b2</version>
+        <change>修复网易云部分歌曲闪退问题</change>
+    </changes>
+    <changes>
         <version>0.3.8~b1</version>
         <change>适配网易云逐字高亮</change>
     </changes>

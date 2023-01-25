@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.8~b1",
+                    "text": "0.3.8~b2",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.8~b2",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 修复网易云部分歌曲闪退问题",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.8~b1",
                     "useBoldText": true,

@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.8~b1</version>
+    <version>0.3.8~b2</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -26,7 +26,7 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>适配网易云逐字高亮</change>
+        <change>修复网易云部分歌曲闪退问题</change>
     </changelog>
     <links>
         <link>
