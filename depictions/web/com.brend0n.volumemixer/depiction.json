@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.5",
+                    "text": "0.0.6~beta1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -75,6 +75,37 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.6~beta1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add support(beta) for Youtube",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add Control Center module",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add shows on lock screen option",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add transparent background option",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Restore user interaction immediately after window is hid",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.5",
                     "useBoldText": true,

@@ -1,4 +1,12 @@
 <changelog>
+    <changes>
+        <version>0.0.6~beta1</version>
+        <change>Add support(beta) for Youtube</change>
+        <change>Add Control Center module</change>
+        <change>Add shows on lock screen option</change>
+        <change>Add transparent background option</change>
+        <change>Restore user interaction immediately after window is hid</change>
+    </changes>
 	<changes>
         <version>0.0.5</version>
         <change>Switch from Applist to Altlist</change>
