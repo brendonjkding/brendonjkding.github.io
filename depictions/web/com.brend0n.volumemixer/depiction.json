@@ -192,6 +192,23 @@
                 },
             ],
             "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Q&A",
+            "views": [
+                {
+                    "title": "Is Xina supported?",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Yes. You need to install RocketBootstrap from Xina repo.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+            ],
+            "class": "DepictionStackView"
         }
     ],
     "class": "DepictionTabView"
