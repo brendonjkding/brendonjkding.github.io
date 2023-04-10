@@ -102,7 +102,7 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "\t\n\u2022 Restore user interaction immediately after window is hid",
+                    "markdown": "\t\n\u2022 Restore user interaction immediately after window is hidden",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },

@@ -5,7 +5,7 @@
         <change>Add Control Center module</change>
         <change>Add shows on lock screen option</change>
         <change>Add transparent background option</change>
-        <change>Restore user interaction immediately after window is hid</change>
+        <change>Restore user interaction immediately after window is hidden</change>
     </changes>
 	<changes>
         <version>0.0.5</version>
