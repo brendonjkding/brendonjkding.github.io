@@ -1,11 +1,11 @@
 <package>
     <id>com.brend0n.volumemixer</id>
     <name>VolumeMixer</name>
-    <version>0.0.6~beta1</version>
+    <version>0.0.6~beta2</version>
     <compatibility>
         <firmware>
             <miniOS>10.3</miniOS>
-            <maxiOS>14.9</maxiOS>
+            <maxiOS>15.9</maxiOS>
             <mayWorkiOS>10.0</mayWorkiOS>
         </firmware>
     </compatibility>
@@ -23,11 +23,7 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>Add support(beta) for Youtube</change>
-        <change>Add Control Center module</change>
-        <change>Add shows on lock screen option</change>
-        <change>Add transparent background option</change>
-        <change>Restore user interaction immediately after window is hidden</change>
+        <change>Add support(beta) for Xina</change>
     </changelog>
     <links>
         <link>
