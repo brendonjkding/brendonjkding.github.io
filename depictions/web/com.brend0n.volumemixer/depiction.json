@@ -208,6 +208,17 @@
             "tabname": "Q&A",
             "views": [
                 {
+                    "title": "Is palera1n rootfull supported?",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Yes. You need to uninstall libhooker-shim and RocketBootstrap.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "Is Xina supported?",
                     "useBoldText": true,
                     "useBottomMargin": true,
