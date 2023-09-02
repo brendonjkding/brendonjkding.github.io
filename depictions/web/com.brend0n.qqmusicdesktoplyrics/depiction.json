@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.3.8~b2",
+                    "text": "0.3.8~b3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -79,6 +79,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.3.8~b3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 优化屏幕旋转时平滑切换位置",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 [多巴胺] 修复Apple Music",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.3.8~b2",
                     "useBoldText": true,

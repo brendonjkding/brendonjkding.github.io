@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.3.8~b3</version>
+        <change>优化屏幕旋转时平滑切换位置</change>
+        <change>[多巴胺] 修复Apple Music</change>
+    </changes>
+    <changes>
         <version>0.3.8~b2</version>
         <change>修复网易云部分歌曲闪退问题</change>
     </changes>
