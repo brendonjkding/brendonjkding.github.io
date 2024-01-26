@@ -34,7 +34,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.4",
+                    "text": "0.0.5",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -81,6 +81,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Fix AD blocking (iOS 14 and lower only)",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Fix crash in Settings page",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.4",
                     "useBoldText": true,

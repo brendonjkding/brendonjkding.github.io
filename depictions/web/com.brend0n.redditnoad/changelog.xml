@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.0.5</version>
+        <change>Fix AD blocking (iOS 14 and lower only)</change>
+        <change>Fix crash in Settings page</change>
+    </changes>
+    <changes>
         <version>0.0.4</version>
         <change>"Interested in r/XX?" on subreddit page will be blocked as well if enabled</change>
         <change>Feed AD in News will be blocked as well if enabled</change>

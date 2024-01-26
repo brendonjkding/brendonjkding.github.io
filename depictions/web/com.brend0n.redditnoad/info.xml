@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.redditnoad</id>
     <name>RedditNoAD(Beta)</name>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <compatibility>
         <firmware>
             <miniOS>7.0.0</miniOS>
@@ -19,8 +19,8 @@
         <description>Lightweight In-App Preferences</description>
     </descriptionlist>
     <changelog>
-        <change>"Interested in r/XX?" on subreddit page will be blocked as well if enabled</change>
-        <change>Feed AD in News will be blocked as well if enabled</change>
+        <change>Fix AD blocking (iOS 14 and lower only)</change>
+        <change>Fix crash in Settings page</change>
     </changelog>
     <links>
         <link>
