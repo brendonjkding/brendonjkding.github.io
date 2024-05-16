@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.9~b1</version>
+        <change>初步支持iOS 16(多巴胺)</change>
+    </changes>
+    <changes>
         <version>0.3.8~b3</version>
         <change>优化屏幕旋转时平滑切换位置</change>
         <change>[多巴胺] 修复Apple Music</change>

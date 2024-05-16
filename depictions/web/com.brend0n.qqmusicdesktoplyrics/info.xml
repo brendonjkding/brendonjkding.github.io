@@ -1,7 +1,7 @@
 <package>
     <id>com.brend0n.qqmusicdesktoplyrics</id>
     <name>DesktopLyrics</name>
-    <version>0.3.8~b3</version>
+    <version>0.3.9~b1</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -26,8 +26,7 @@
         </screenshot>               
     </screenshots>
     <changelog>
-        <change>优化屏幕旋转时平滑切换位置</change>
-        <change>[多巴胺] 修复Apple Music</change>
+        <change>初步支持iOS 16(多巴胺)</change>
     </changelog>
     <links>
         <link>
