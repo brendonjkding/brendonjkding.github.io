@@ -34,6 +34,6 @@
 <answer>iOS7-11：部分功能在过低的版本不可用</answer>
 <answer>iOS12-13：支持</answer>
 <answer>iOS14：支持。注意一定要确保依赖rocketbootstrap 版本大于等于1.0.10 作者源rpetri.ch/repo</answer>
-<answer>iOS15：初步支持</answer>
+<answer>iOS15-16：初步支持</answer>
     </qa>
 </qa>
