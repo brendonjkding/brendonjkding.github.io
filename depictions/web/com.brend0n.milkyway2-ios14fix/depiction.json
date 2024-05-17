@@ -14,7 +14,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.3",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -61,6 +61,28 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Support iOS 16",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.0.3.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Fix missing title bar in rootless environment",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.3",
                     "useBoldText": true,

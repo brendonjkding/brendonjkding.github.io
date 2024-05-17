@@ -1,11 +1,11 @@
 <package>
     <id>com.brend0n.milkyway2-ios14fix</id>
     <name>MilkyWay2-iOS14Fix</name>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>14.0.0</miniOS>
-            <maxiOS>15.9</maxiOS>
+            <maxiOS>16.9</maxiOS>
         </firmware>
     </compatibility>
     <dependencies>
@@ -16,7 +16,7 @@
 <description>Make MilkyWay2 great again!</description>
     </descriptionlist>
     <changelog>
-        <change>Really support iOS 15</change>
+        <change>Support iOS 16</change>
     </changelog>
     <links>
         <link>
