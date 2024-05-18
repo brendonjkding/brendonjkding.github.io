@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.2",
+                    "text": "0.0.3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -70,6 +70,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Fix interface not responsive for a short time after dismissal",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.2",
                     "useBoldText": true,

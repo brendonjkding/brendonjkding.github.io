@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>Fix interface not responsive for a short time after dismissal</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>Support iPadOS 15</change>
 	</changes>
