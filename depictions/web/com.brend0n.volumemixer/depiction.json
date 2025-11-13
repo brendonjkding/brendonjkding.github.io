@@ -76,6 +76,17 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "0.0.7~beta1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Add support(beta) for Dopamine",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "0.0.6~beta2",
                     "useBoldText": true,
                     "useBottomMargin": true,

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.0.7~beta1</version>
+        <change>Add support(beta) for Dopamine</change>
+    </changes>
+    <changes>
         <version>0.0.6~beta2</version>
         <change>Add support(beta) for Xina</change>
     </changes>
