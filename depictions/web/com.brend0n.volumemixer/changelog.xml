@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.0.7~beta2</version>
+        <change>Fix possible distortion/crackling</change>
+        <change>Recent change: Add support(beta) for Dopamine</change>
+    </changes>
+    <changes>
         <version>0.0.7~beta1</version>
         <change>Add support(beta) for Dopamine</change>
     </changes>

@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.0.6~beta2",
+                    "text": "0.0.7~beta2",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -75,6 +75,22 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.0.7~beta2",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Fix possible distortion/crackling",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Recent change: Add support(beta) for Dopamine",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.0.7~beta1",
                     "useBoldText": true,
