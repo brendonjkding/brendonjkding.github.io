@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.1.4b2",
+                    "text": "0.1.5b1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -75,6 +75,17 @@
         {
             "tabname": "Changelog",
             "views": [
+                {
+                    "title": "0.1.5b1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\n\u2022 Remove cephei dependency",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "0.1.4b2",
                     "useBoldText": true,
