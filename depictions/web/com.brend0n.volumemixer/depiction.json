@@ -188,7 +188,7 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "\t\n\u2022 Use Cephei to manage Settings",
+                    "markdown": "\t\n\u2022 Use Deprecated to manage Settings",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },

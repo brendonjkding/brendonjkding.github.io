@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>0.1.5b1</version>
-		<change>Remove cephei dependency</change>
+		<change>Remove deprecated dependency</change>
 	</changes>
 	<changes>
 		<version>0.1.4b2</version>

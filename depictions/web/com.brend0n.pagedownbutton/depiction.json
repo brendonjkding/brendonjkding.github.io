@@ -82,7 +82,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "\t\n\u2022 Remove cephei dependency",
+                    "markdown": "\t\n\u2022 Remove deprecated dependency",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },

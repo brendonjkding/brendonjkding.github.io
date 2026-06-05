@@ -33,7 +33,7 @@
     <changes>
         <version>0.0.4</version>
         <change>Add Option "Hide Inactive Apps"</change>
-        <change>Use Cephei to manage Settings</change>
+        <change>Use Deprecated to manage Settings</change>
         <change>Add volume down/up Activator listeners</change>
     </changes>
     <changes>

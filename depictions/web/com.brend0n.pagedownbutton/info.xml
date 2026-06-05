@@ -21,7 +21,7 @@
         </screenshot>            
     </screenshots>
     <changelog>
-        <change>Remove cephei dependency</change>
+        <change>Remove deprecated dependency</change>
     </changelog>
     <links>
         <link>
