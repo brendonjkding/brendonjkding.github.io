@@ -9,7 +9,7 @@
         </firmware>
     </compatibility>
     <dependencies>
-        <package>mobilesubstrate, com.opa334.altlist, org.thebigboss.libcolorpicker</package>
+        <package>mobilesubstrate, com.opa334.altlist</package>
     </dependencies>
     <shortDescription>In-game real-time FPS indicator</shortDescription>
     <descriptionlist>
